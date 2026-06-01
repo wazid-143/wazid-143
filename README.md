@@ -52,8 +52,8 @@ Personal portfolio website showcasing my skills, projects, education, and contac
 🎓 Student ERP System
 
 A web-based student management system that helps manage student records, profiles, and academic information efficiently.
-
-🔗 Project Repository: https://github.com/wazid-143
+🔗 Live Demo: https://student-erp-system-ko6q.onrender.com
+ 
 
 💬 NexTalk Chat App
 
