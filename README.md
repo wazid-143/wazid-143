@@ -1,9 +1,13 @@
 # Hi 👋, I'm Wazid Ansari
 
-### Frontend Developer | Python & Flask Developer 🚀
+### Full-Stack Developer (Python, React.js) |
+    Built & Deployed 4+ Live Web Apps | Open to Opportunities
 
-Passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills.
-
+ Aspiring Software Developer with hands-on experience in full-stack web development using Python 
+(Flask/Django), React.js, REST APIs, and SQL. Built and deployed 4+ production-grade web applications — 
+including an authentication-based ERP system and an API-integrated streaming platform — on Vercel and 
+Render. Strong foundation in data structures, algorithms, and clean, scalable code. Seeking a Software 
+Developer or Backend Developer role to contribute to a dynamic engineering team
 ---
 
 ## 🚀 About Me
